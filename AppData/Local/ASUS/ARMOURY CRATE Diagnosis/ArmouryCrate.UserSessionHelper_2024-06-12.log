@@ -1,0 +1,15 @@
+2024-06-12 21:45:14; INFO; User Session Manager; 21112; 17252] OnSessionChange Start
+2024-06-12 21:45:14; ERROR; GameBoxPlugIn; 21112; 11368] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; SoulKey Plugin; 21112; 19312] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; GameLibrary Pluing; 21112; 16680] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; WebSocketClientPlugin; 21112; 1528] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; INFO; User Session Manager; 21112; 17252] OnSessionChange End
+2024-06-12 21:45:14; ERROR; DeviceServicePlugin; 21112; 14820] [DeviceServicePlugin] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; INFO; ACStore Plugin; 21112; 8052] OnSessionChange(): Type = 7
+2024-06-12 21:45:14; ERROR; AC_FDSPlugIn; 21112; 16112] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; Free Up Memory Plugin; 21112; 13416] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; GPU Power Saving Plugin ; 21112; 17148] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; DenoiseAI Pluing; 21112; 12768] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; Mobile Plugin; 21112; 21408] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; ERROR; Virtual Drive Plugin; 21112; 23616] UserSession:1, OnSessionChange: Event:7
+2024-06-12 21:45:14; INFO; ScenarioProfilePlugIn; 21112; 21720] UserSession:1, OnSessionChange: Event:7

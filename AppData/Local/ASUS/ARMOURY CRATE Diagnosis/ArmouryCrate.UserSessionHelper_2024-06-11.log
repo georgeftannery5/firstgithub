@@ -1,0 +1,1129 @@
+2024-06-11 11:25:16; INFO; User Session Manager; 21112; 17252] OnPowerChange Start
+2024-06-11 11:25:16; INFO; User Session Manager; 21112; 17252] OnPowerChange End
+2024-06-11 11:25:17; INFO; User Session Manager; 21112; 17252] OnPowerChange Start
+2024-06-11 11:25:17; INFO; User Session Manager; 21112; 17252] OnPowerChange End
+2024-06-11 11:26:11; INFO; Aura Pluing; 21112; 19724] [AuraListener] DataCollection24hr Trigger data collection !!
+2024-06-11 11:26:11; INFO; Aura Pluing; 21112; 19724] Start InsertData to UserBehavior.
+2024-06-11 11:26:11; INFO; Aura Pluing; 21112; 19724] CallLibrary Start
+2024-06-11 11:26:11; INFO; Aura Pluing; 21112; 19724] CallLibrary End
+2024-06-11 11:26:11; INFO; Aura Pluing; 21112; 19724] CallLibrary Start
+2024-06-11 11:26:11; INFO; Aura Pluing; 21112; 19724] CallLibrary End
+2024-06-11 11:26:11; ERROR; Aura Pluing; 21112; 19724] End InsertData to AuraPlugin, result:0x80004005.
+2024-06-11 11:36:13; INFO; Utility Plugin; 21112; 7180] CallLibrary Start
+2024-06-11 11:36:13; INFO; Utility Plugin; 21112; 7180] CallLibrary End
+2024-06-11 11:36:13; INFO; Utility Plugin; 21112; 7180] CallLibrary Start
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter DoGetGraphicStatus()
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter GetGraphicStatus()
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter InitializeFolderHook()
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter InitializeFolderHook() Finish
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] Get GPUStatus from BIOS : 0 (0:Hybrid ; 1:UMA)
+
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] GetGraphicStatus() Finish
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() - Graphic_Status = 0
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() - Auto_Status = 0
+2024-06-11 11:36:13; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() Finish
+2024-06-11 11:36:13; INFO; Utility Plugin; 21112; 7180] CallLibrary End
+2024-06-11 11:41:26; WARNING; AEF Core; 21112; 23904] Get Asus Device Change Message msg:7, device:64, modelname:GU603HE, id:
+2024-06-11 11:41:26; INFO; Aura Pluing; 21112; 23904] CallLibrary Start
+2024-06-11 11:41:26; INFO; Aura Pluing; 21112; 23904] CallLibrary End
+2024-06-11 11:41:26; INFO; Free Up Memory Plugin; 21112; 23904] OnAsusDeviceChanged : Device Update - DeviceType=64, DeviceName:GU603HE, DeviceId=
+2024-06-11 11:41:26; INFO; DenoiseAI Pluing; 21112; 23904] OnAsusDeviceChanged : Device Update - DeviceType=64, DeviceName:GU603HE, DeviceId=
+2024-06-11 11:41:26; INFO; Macro Key Plugin; 21112; 23904] OnAsusDeviceChanged : Device Update - DeviceType=64, DeviceName:GU603HE, DeviceId=
+2024-06-11 11:41:26; INFO; GPU Power Saving Plugin ; 21112; 23904] OnAsusDeviceChanged : Device Update - DeviceType=64, DeviceName:GU603HE, DeviceId=
+2024-06-11 11:45:07; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 11:45:07; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; Aura Pluing; 21112; 10312] ATK registry Update !!!
+2024-06-11 12:36:11; ERROR; Aura Pluing; 21112; 19724] [AuraDlg][ResetParameter] Reset Parameter
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnPowerChange Start
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 17148] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display On
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnPowerChange End
+2024-06-11 12:36:11; CRITICAL; Utility Plugin; 21112; 19432] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display On
+2024-06-11 12:36:11; INFO; User Experience Improvement Plugin; 21112; 11756] Display On
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] open display notiy bios bitlocker status
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] Enter NotifyBitLockerStatus()
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before System Folder
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Try Get ConversaionStatus
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Finish Get ConversaionStatus
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before release COM
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After release COM
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After IsBitLockerEnabled() = 1
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] CheckPCR7Stats() Enter
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] m_uiPCR7BindingStatus = 3
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] CheckPCR7Stats() Finish, successful
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] dwBitLockerEnable = 1 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 3
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] Fail because bios does not support WMI ID 0x00060096
+
+2024-06-11 12:36:11; INFO; Utility Plugin; 21112; 19432] NotifyBitLockerStatus() Finish
+2024-06-11 12:36:11; ERROR; Aura Pluing; 21112; 19724] [HIDHelp][GetRGBKBStatus] lpReport[9]: 4
+2024-06-11 12:36:11; ERROR; Aura Pluing; 21112; 19724] [HIDHelp][GetRGBKBStatus] Keyboard_Years = 0x0
+2024-06-11 12:36:11; ERROR; Aura Pluing; 21112; 19724] [HIDHelp][GetRGBKBStatus] Support DefaultColor
+2024-06-11 12:36:11; INFO; Aura Pluing; 21112; 19724] [AuraDlg][InitializeAURA] InitializeAURA In 
+2024-06-11 12:36:11; INFO; Aura Pluing; 21112; 19724] AuraWallpaper's Registry is not Exist !!!
+2024-06-11 12:36:11; INFO; Aura Pluing; 21112; 19724] AC_Wallpaper's Registry is not Exist !!!
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter CheckDisplayStatus()
+2024-06-11 12:36:11; INFO; GameVisual Plugin; 21112; 5440] GameVisualPlugin::ResetGVMode(): ResetGVMode() reason = WM_DISPLAYCHANGE
+2024-06-11 12:36:11; ERROR; GameVisual Plugin; 21112; 5440] GameVisualPlugin::QueryDispConf(): GetDisplayConfigBufferSizes return 0x00000000
+
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Display Status Change From : 1
+
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Display Status Change To : 4
+
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter ImplementAutoMode()
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] UMA - IsAutoMode : false
+
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter CheckEGPUMode()
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] CheckEGPUMode() Finish
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] ImplementAutoMode() Finish
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter EnumGPUProcess()
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] m_bFindIntel_iGPU=1 , m_bFindNV=1 , m_bFindAMD_iGPU=0 , m_bFindRadeon=0 , m_bFindIntelARC=0
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Supported Nvidia library.
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] EnumGPUProcess() Finish
+2024-06-11 12:36:11; INFO; GPU Power Saving Plugin ; 21112; 16964] CheckDisplayStatus() Finish
+2024-06-11 12:36:11; ERROR; Aura Pluing; 21112; 19724] [AuraDlg][ACPIWMICommandFromBIOS] Command = 0x00060077 FAILED!!!!!
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; ScenarioProfilePlugIn; 21112; 15068] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; ScenarioProfilePlugIn; 21112; 15068] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:11; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:11; INFO; ScenarioProfilePlugIn; 21112; 15068] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:11; INFO; ScenarioProfilePlugIn; 21112; 15068] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:11; INFO; ScenarioProfilePlugIn; 21112; 15068] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:11; INFO; ScenarioProfilePlugIn; 21112; 15068] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:11; INFO; Aura Pluing; 21112; 19724] [AuraDlg][CheckServiceVersion] In
+2024-06-11 12:36:11; INFO; Aura Pluing; 21112; 19724] [AuraDlg][CheckServiceVersion] Out
+2024-06-11 12:36:11; WARNING; Aura Pluing; 21112; 19724] [ROGAuraInterface][GetDevListFromLightingService] from InitializeAURA Start
+2024-06-11 12:36:14; ERROR; GameVisual Plugin; 21112; 5440] GameVisualPlugin::QueryDispConf(): GetDisplayConfigBufferSizes return 0x00000000
+
+2024-06-11 12:36:14; INFO; GameVisual Plugin; 21112; 5440] GameVisualPlugin::GetIsGameVisualSupportedCurrentDisplayTopology(): topology_id = 4
+2024-06-11 12:36:14; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:14; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:14; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:14; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:14; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:14; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:14; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:14; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:14; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:14; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:14; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; Aura Pluing; 21112; 15940] [AuraServiceHelper][GetDeviceCap] GetDeviceStatus SUCCESS
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 100, ModeKey : 100, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; ScenarioProfilePlugIn; 21112; 16792] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; Aura Pluing; 21112; 15940] [AuraServiceHelper][GetDeviceCap] GetDeviceCap SUCCESS
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; Aura Pluing; 21112; 15940] [AuraServiceHelper][GetDeviceCap] QueryAllDevice SUCCESS
+2024-06-11 12:36:15; INFO; Aura Pluing; 21112; 15940] [AuraServiceHelper][GetDeviceCap] GetDevList SUCCESS
+2024-06-11 12:36:15; WARNING; Aura Pluing; 21112; 15940] [ROGAuraInterface][UpdateDeviceOtherSettings] Count = 0 Assign StatusReady type = 64
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:15; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:15; WARNING; Aura Pluing; 21112; 19724] [ROGAuraInterface][GetDevListFromLightingService] from InitializeAURA End
+2024-06-11 12:36:15; ERROR; Aura Pluing; 21112; 19724] [HIDHelp][GetECRunmodeReback] Didn't support EC reback
+2024-06-11 12:36:15; ERROR; Aura Pluing; 21112; 19724] [HIDHelp][ChooseHidpathForECRunmodeReback] From LightingHidPath
+2024-06-11 12:36:15; INFO; Aura Pluing; 21112; 19724] [AuraDlg][InitializeAURA] InitializeAURA Out 
+2024-06-11 12:36:16; INFO; GameVisual Plugin; 21112; 5440] GameVisualPlugin::ResetGVMode(): RequestSplendid(200, 0, 50) Result = 0
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:16; INFO; GPU Power Saving Plugin ; 21112; 1580] Enter CheckEGPUMode()
+2024-06-11 12:36:16; INFO; GPU Power Saving Plugin ; 21112; 1580] CheckEGPUMode() Finish
+2024-06-11 12:36:16; INFO; GPU Power Saving Plugin ; 21112; 1580] Enter SetLastStatus()
+2024-06-11 12:36:16; INFO; GPU Power Saving Plugin ; 21112; 1580] KeepStatus true and IsUMA is false
+2024-06-11 12:36:16; INFO; AC_FDSPlugIn; 21112; 2208] CallLibrary Start
+2024-06-11 12:36:16; INFO; AC_FDSPlugIn; 21112; 2208] CallLibrary End
+2024-06-11 12:36:16; INFO; GPU Power Saving Plugin ; 21112; 1580] BIOS already Hybrid
+2024-06-11 12:36:16; INFO; GPU Power Saving Plugin ; 21112; 1580] Enter LaunchIntelPatch()
+2024-06-11 12:36:16; INFO; AC_FDSPlugIn; 21112; 13928] CallLibrary Start
+2024-06-11 12:36:16; INFO; ScenarioProfilePlugIn; 21112; 13928] ProcessRequest : DoForegroundEvent
+2024-06-11 12:36:16; INFO; ScenarioProfilePlugIn; 21112; 13928] (DoForegroundEvent) PID=18468, Path="Microsoft.LockApp_cw5n1h2txyewy!WindowsDefaultLockScreen", AppType=UWP
+2024-06-11 12:36:16; INFO; ScenarioProfilePlugIn; 21112; 13928] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:36:16; INFO; ScenarioProfilePlugIn; 21112; 13928] (MonitorHandler) No linked profile
+2024-06-11 12:36:16; INFO; ScenarioProfilePlugIn; 21112; 13928] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:36:16; INFO; ScenarioProfilePlugIn; 21112; 13928] Finish DoForegroundEvent()
+2024-06-11 12:36:16; INFO; AC_FDSPlugIn; 21112; 13928] CallLibrary End
+2024-06-11 12:36:16; INFO; GameVisual Plugin; 21112; 5440] GameVisualPlugin::ResetGVMode(): SetGVModeCoreNoCheck(11) Result = 0
+2024-06-11 12:36:16; INFO; GameVisual Plugin; 21112; 26364] GameVisualPlugin::SendNotificationThrdEx(): Send SendApplyCaliMgtState @ USERSESSION.
+2024-06-11 12:36:16; INFO; GameVisual Plugin; 21112; 26364] GameVisualPlugin::SendNotificationThrdEx(): Send SendApplyCaliMgtState END! @ USERSESSION.
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:16; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:17; INFO; GPU Power Saving Plugin ; 21112; 1580] LaunchIntelPatch() OK
+2024-06-11 12:36:17; INFO; GPU Power Saving Plugin ; 21112; 1580] SetLastStatus() - Success set to Hybrid
+2024-06-11 12:36:17; INFO; GPU Power Saving Plugin ; 21112; 1580] SetLastStatus() Finish
+2024-06-11 12:36:17; INFO; GPU Power Saving Plugin ; 21112; 1580] Enter GetDDSSetting()
+2024-06-11 12:36:17; INFO; User Session Manager; 21112; 17252] OnRegisteredWindowMessage Start
+2024-06-11 12:36:17; INFO; User Session Manager; 21112; 17252] OnRegisteredWindowMessage End
+2024-06-11 12:36:17; INFO; GPU Power Saving Plugin ; 21112; 1580] GetDDSSetting() Finish, m_bSupportDDS = 0
+2024-06-11 12:36:17; INFO; User Session Manager; 21112; 17252] OnRegisteredWindowMessage Start
+2024-06-11 12:36:17; INFO; User Session Manager; 21112; 17252] OnRegisteredWindowMessage End
+2024-06-11 12:36:17; WARNING; AC_FDSPlugIn; 21112; 17892] [MonitorHandler] (ForegroundEventThread) Working Path is Empty.
+2024-06-11 12:36:18; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:18; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:18; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:36:18; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:36:27; INFO; User Session Manager; 21112; 17252] OnSessionChange Start
+2024-06-11 12:36:27; ERROR; DeviceServicePlugin; 21112; 14820] [DeviceServicePlugin] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; SoulKey Plugin; 21112; 19312] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; GameBoxPlugIn; 21112; 11368] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; INFO; ACStore Plugin; 21112; 8052] OnSessionChange(): Type = 8
+2024-06-11 12:36:27; ERROR; AC_FDSPlugIn; 21112; 16112] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; Free Up Memory Plugin; 21112; 13416] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; DenoiseAI Pluing; 21112; 12768] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; GameLibrary Pluing; 21112; 16680] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; Mobile Plugin; 21112; 21408] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; GPU Power Saving Plugin ; 21112; 17148] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; INFO; GameBoxPlugIn; 21112; 11368] class CAEFPluginSample::NotifySessionChange PushNotification Fail, Event: SessionChange, Role: UserSession
+2024-06-11 12:36:27; ERROR; WebSocketClientPlugin; 21112; 1528] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; INFO; User Session Manager; 21112; 17252] OnSessionChange End
+2024-06-11 12:36:27; INFO; ScenarioProfilePlugIn; 21112; 21720] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; ERROR; Virtual Drive Plugin; 21112; 23616] UserSession:1, OnSessionChange: Event:8
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] SessionChange-Login notify bitlocker status
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] Enter NotifyBitLockerStatus()
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before System Folder
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Try Get ConversaionStatus
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Finish Get ConversaionStatus
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before release COM
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After release COM
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After IsBitLockerEnabled() = 1
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] CheckPCR7Stats() Enter
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] m_uiPCR7BindingStatus = 3
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] CheckPCR7Stats() Finish, successful
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] dwBitLockerEnable = 1 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 3
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] Fail because bios does not support WMI ID 0x00060096
+
+2024-06-11 12:36:27; INFO; Utility Plugin; 21112; 19432] NotifyBitLockerStatus() Finish
+2024-06-11 12:36:28; INFO; AC_FDSPlugIn; 21112; 21276] CallLibrary Start
+2024-06-11 12:36:28; INFO; AC_FDSPlugIn; 21112; 21276] CallLibrary End
+2024-06-11 12:36:28; INFO; AC_FDSPlugIn; 21112; 3004] CallLibrary Start
+2024-06-11 12:36:28; INFO; ScenarioProfilePlugIn; 21112; 3004] ProcessRequest : DoForegroundEvent
+2024-06-11 12:36:28; INFO; ScenarioProfilePlugIn; 21112; 3004] (DoForegroundEvent) PID=24184, Path="Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App", AppType=UWP
+2024-06-11 12:36:28; INFO; ScenarioProfilePlugIn; 21112; 3004] (DoForegroundEvent) isFilter = 1, AutoApplyOnOff= On
+2024-06-11 12:36:28; INFO; ScenarioProfilePlugIn; 21112; 3004] Finish DoForegroundEvent()
+2024-06-11 12:36:28; INFO; AC_FDSPlugIn; 21112; 3004] CallLibrary End
+2024-06-11 12:36:32; INFO; Loopback Stream; 21112; 20304] CallLibrary Start
+2024-06-11 12:36:32; INFO; Loopback Stream; 21112; 20304] CallLibrary End
+2024-06-11 12:36:33; INFO; AC_FDSPlugIn; 21112; 12844] CallLibrary Start
+2024-06-11 12:36:33; INFO; AC_FDSPlugIn; 21112; 12844] CallLibrary End
+2024-06-11 12:36:33; INFO; AC_FDSPlugIn; 21112; 5464] CallLibrary Start
+2024-06-11 12:36:33; INFO; ScenarioProfilePlugIn; 21112; 5464] ProcessRequest : DoForegroundEvent
+2024-06-11 12:36:33; INFO; ScenarioProfilePlugIn; 21112; 5464] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:36:33; INFO; ScenarioProfilePlugIn; 21112; 5464] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:36:33; INFO; ScenarioProfilePlugIn; 21112; 5464] (MonitorHandler) No linked profile
+2024-06-11 12:36:33; INFO; ScenarioProfilePlugIn; 21112; 5464] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:36:33; INFO; ScenarioProfilePlugIn; 21112; 5464] Finish DoForegroundEvent()
+2024-06-11 12:36:33; INFO; AC_FDSPlugIn; 21112; 5464] CallLibrary End
+2024-06-11 12:37:02; INFO; Loopback Stream; 21112; 25304] CallLibrary Start
+2024-06-11 12:37:02; INFO; Loopback Stream; 21112; 25304] CallLibrary End
+2024-06-11 12:37:03; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 12:37:03; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter CheckDisplayStatus()
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Display Status Change From : 4
+
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Display Status Change To : 4
+
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter ImplementAutoMode()
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] UMA - IsAutoMode : false
+
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter CheckEGPUMode()
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] CheckEGPUMode() Finish
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] ImplementAutoMode() Finish
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Enter EnumGPUProcess()
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] m_bFindIntel_iGPU=1 , m_bFindNV=1 , m_bFindAMD_iGPU=0 , m_bFindRadeon=0 , m_bFindIntelARC=0
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] Supported Nvidia library.
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] EnumGPUProcess() Finish
+2024-06-11 12:37:11; INFO; GPU Power Saving Plugin ; 21112; 16964] CheckDisplayStatus() Finish
+2024-06-11 12:37:13; INFO; AC_FDSPlugIn; 21112; 4072] CallLibrary Start
+2024-06-11 12:37:13; INFO; AC_FDSPlugIn; 21112; 4072] CallLibrary End
+2024-06-11 12:37:13; INFO; AC_FDSPlugIn; 21112; 26584] CallLibrary Start
+2024-06-11 12:37:13; INFO; ScenarioProfilePlugIn; 21112; 26584] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:13; INFO; ScenarioProfilePlugIn; 21112; 26584] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:37:13; INFO; ScenarioProfilePlugIn; 21112; 26584] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:13; INFO; ScenarioProfilePlugIn; 21112; 26584] (MonitorHandler) No linked profile
+2024-06-11 12:37:13; INFO; ScenarioProfilePlugIn; 21112; 26584] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:13; INFO; ScenarioProfilePlugIn; 21112; 26584] Finish DoForegroundEvent()
+2024-06-11 12:37:13; INFO; AC_FDSPlugIn; 21112; 26584] CallLibrary End
+2024-06-11 12:37:15; INFO; AC_FDSPlugIn; 21112; 18932] CallLibrary Start
+2024-06-11 12:37:15; INFO; AC_FDSPlugIn; 21112; 18932] CallLibrary End
+2024-06-11 12:37:15; INFO; AC_FDSPlugIn; 21112; 8432] CallLibrary Start
+2024-06-11 12:37:15; INFO; ScenarioProfilePlugIn; 21112; 8432] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:15; INFO; ScenarioProfilePlugIn; 21112; 8432] (DoForegroundEvent) PID=5652, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:37:15; INFO; ScenarioProfilePlugIn; 21112; 8432] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:15; INFO; ScenarioProfilePlugIn; 21112; 8432] (MonitorHandler) No linked profile
+2024-06-11 12:37:15; INFO; ScenarioProfilePlugIn; 21112; 8432] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:15; INFO; ScenarioProfilePlugIn; 21112; 8432] Finish DoForegroundEvent()
+2024-06-11 12:37:15; INFO; AC_FDSPlugIn; 21112; 8432] CallLibrary End
+2024-06-11 12:37:26; INFO; AC_FDSPlugIn; 21112; 13524] CallLibrary Start
+2024-06-11 12:37:26; INFO; ScenarioProfilePlugIn; 21112; 13524] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:26; INFO; ScenarioProfilePlugIn; 21112; 13524] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:37:26; INFO; ScenarioProfilePlugIn; 21112; 13524] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:26; INFO; ScenarioProfilePlugIn; 21112; 13524] (MonitorHandler) No linked profile
+2024-06-11 12:37:26; INFO; ScenarioProfilePlugIn; 21112; 13524] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:26; INFO; ScenarioProfilePlugIn; 21112; 13524] Finish DoForegroundEvent()
+2024-06-11 12:37:26; INFO; AC_FDSPlugIn; 21112; 13524] CallLibrary End
+2024-06-11 12:37:26; INFO; AC_FDSPlugIn; 21112; 11256] CallLibrary Start
+2024-06-11 12:37:26; INFO; AC_FDSPlugIn; 21112; 11256] CallLibrary End
+2024-06-11 12:37:28; INFO; AC_FDSPlugIn; 21112; 15772] CallLibrary Start
+2024-06-11 12:37:28; INFO; AC_FDSPlugIn; 21112; 15772] CallLibrary End
+2024-06-11 12:37:28; INFO; AC_FDSPlugIn; 21112; 20048] CallLibrary Start
+2024-06-11 12:37:28; INFO; ScenarioProfilePlugIn; 21112; 20048] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:28; INFO; ScenarioProfilePlugIn; 21112; 20048] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:37:28; INFO; ScenarioProfilePlugIn; 21112; 20048] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:28; INFO; ScenarioProfilePlugIn; 21112; 20048] (MonitorHandler) No linked profile
+2024-06-11 12:37:28; INFO; ScenarioProfilePlugIn; 21112; 20048] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:28; INFO; ScenarioProfilePlugIn; 21112; 20048] Finish DoForegroundEvent()
+2024-06-11 12:37:28; INFO; AC_FDSPlugIn; 21112; 20048] CallLibrary End
+2024-06-11 12:37:31; INFO; AC_FDSPlugIn; 21112; 13700] CallLibrary Start
+2024-06-11 12:37:31; INFO; ScenarioProfilePlugIn; 21112; 13700] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:31; INFO; ScenarioProfilePlugIn; 21112; 13700] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:37:31; INFO; ScenarioProfilePlugIn; 21112; 13700] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:31; INFO; ScenarioProfilePlugIn; 21112; 13700] (MonitorHandler) No linked profile
+2024-06-11 12:37:31; INFO; ScenarioProfilePlugIn; 21112; 13700] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:31; INFO; ScenarioProfilePlugIn; 21112; 13700] Finish DoForegroundEvent()
+2024-06-11 12:37:31; INFO; AC_FDSPlugIn; 21112; 13700] CallLibrary End
+2024-06-11 12:37:31; INFO; AC_FDSPlugIn; 21112; 24076] CallLibrary Start
+2024-06-11 12:37:31; INFO; AC_FDSPlugIn; 21112; 24076] CallLibrary End
+2024-06-11 12:37:32; INFO; AC_FDSPlugIn; 21112; 16008] CallLibrary Start
+2024-06-11 12:37:32; INFO; AC_FDSPlugIn; 21112; 16008] CallLibrary End
+2024-06-11 12:37:32; INFO; AC_FDSPlugIn; 21112; 14648] CallLibrary Start
+2024-06-11 12:37:32; INFO; ScenarioProfilePlugIn; 21112; 14648] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:32; INFO; ScenarioProfilePlugIn; 21112; 14648] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:37:32; INFO; ScenarioProfilePlugIn; 21112; 14648] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:32; INFO; ScenarioProfilePlugIn; 21112; 14648] (MonitorHandler) No linked profile
+2024-06-11 12:37:32; INFO; ScenarioProfilePlugIn; 21112; 14648] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:32; INFO; ScenarioProfilePlugIn; 21112; 14648] Finish DoForegroundEvent()
+2024-06-11 12:37:32; INFO; AC_FDSPlugIn; 21112; 14648] CallLibrary End
+2024-06-11 12:37:32; INFO; Loopback Stream; 21112; 3864] CallLibrary Start
+2024-06-11 12:37:32; INFO; Loopback Stream; 21112; 3864] CallLibrary End
+2024-06-11 12:37:39; INFO; AC_FDSPlugIn; 21112; 25100] CallLibrary Start
+2024-06-11 12:37:39; INFO; ScenarioProfilePlugIn; 21112; 25100] ProcessRequest : DoForegroundEvent
+2024-06-11 12:37:39; INFO; ScenarioProfilePlugIn; 21112; 25100] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:37:39; INFO; ScenarioProfilePlugIn; 21112; 25100] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:37:39; INFO; ScenarioProfilePlugIn; 21112; 25100] (MonitorHandler) No linked profile
+2024-06-11 12:37:39; INFO; ScenarioProfilePlugIn; 21112; 25100] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:37:39; INFO; ScenarioProfilePlugIn; 21112; 25100] Finish DoForegroundEvent()
+2024-06-11 12:37:39; INFO; AC_FDSPlugIn; 21112; 25100] CallLibrary End
+2024-06-11 12:37:39; INFO; AC_FDSPlugIn; 21112; 23284] CallLibrary Start
+2024-06-11 12:37:39; INFO; AC_FDSPlugIn; 21112; 23284] CallLibrary End
+2024-06-11 12:38:02; INFO; Loopback Stream; 21112; 23432] CallLibrary Start
+2024-06-11 12:38:02; INFO; Loopback Stream; 21112; 23432] CallLibrary End
+2024-06-11 12:38:32; INFO; Loopback Stream; 21112; 23796] CallLibrary Start
+2024-06-11 12:38:32; INFO; Loopback Stream; 21112; 23796] CallLibrary End
+2024-06-11 12:39:02; INFO; Loopback Stream; 21112; 5272] CallLibrary Start
+2024-06-11 12:39:02; INFO; Loopback Stream; 21112; 5272] CallLibrary End
+2024-06-11 12:39:32; INFO; Loopback Stream; 21112; 20108] CallLibrary Start
+2024-06-11 12:39:32; INFO; Loopback Stream; 21112; 20108] CallLibrary End
+2024-06-11 12:40:02; INFO; Loopback Stream; 21112; 19588] CallLibrary Start
+2024-06-11 12:40:02; INFO; Loopback Stream; 21112; 19588] CallLibrary End
+2024-06-11 12:40:32; INFO; Loopback Stream; 21112; 2088] CallLibrary Start
+2024-06-11 12:40:32; INFO; Loopback Stream; 21112; 2088] CallLibrary End
+2024-06-11 12:40:39; INFO; AC_FDSPlugIn; 21112; 24392] CallLibrary Start
+2024-06-11 12:40:39; INFO; AC_FDSPlugIn; 21112; 24392] CallLibrary End
+2024-06-11 12:40:39; INFO; AC_FDSPlugIn; 21112; 3032] CallLibrary Start
+2024-06-11 12:40:39; INFO; ScenarioProfilePlugIn; 21112; 3032] ProcessRequest : DoForegroundEvent
+2024-06-11 12:40:39; INFO; ScenarioProfilePlugIn; 21112; 3032] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:40:39; INFO; ScenarioProfilePlugIn; 21112; 3032] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:40:39; INFO; ScenarioProfilePlugIn; 21112; 3032] (MonitorHandler) No linked profile
+2024-06-11 12:40:39; INFO; ScenarioProfilePlugIn; 21112; 3032] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:40:39; INFO; ScenarioProfilePlugIn; 21112; 3032] Finish DoForegroundEvent()
+2024-06-11 12:40:39; INFO; AC_FDSPlugIn; 21112; 3032] CallLibrary End
+2024-06-11 12:41:02; INFO; Loopback Stream; 21112; 1432] CallLibrary Start
+2024-06-11 12:41:02; INFO; Loopback Stream; 21112; 1432] CallLibrary End
+2024-06-11 12:41:13; INFO; AC_FDSPlugIn; 21112; 24992] CallLibrary Start
+2024-06-11 12:41:13; INFO; AC_FDSPlugIn; 21112; 24992] CallLibrary End
+2024-06-11 12:41:13; INFO; AC_FDSPlugIn; 21112; 21852] CallLibrary Start
+2024-06-11 12:41:13; INFO; ScenarioProfilePlugIn; 21112; 21852] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:13; INFO; ScenarioProfilePlugIn; 21112; 21852] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:13; INFO; ScenarioProfilePlugIn; 21112; 21852] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:13; INFO; ScenarioProfilePlugIn; 21112; 21852] (MonitorHandler) No linked profile
+2024-06-11 12:41:13; INFO; ScenarioProfilePlugIn; 21112; 21852] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:13; INFO; ScenarioProfilePlugIn; 21112; 21852] Finish DoForegroundEvent()
+2024-06-11 12:41:13; INFO; AC_FDSPlugIn; 21112; 21852] CallLibrary End
+2024-06-11 12:41:19; INFO; AC_FDSPlugIn; 21112; 20472] CallLibrary Start
+2024-06-11 12:41:19; INFO; AC_FDSPlugIn; 21112; 20472] CallLibrary End
+2024-06-11 12:41:19; INFO; AC_FDSPlugIn; 21112; 10584] CallLibrary Start
+2024-06-11 12:41:19; INFO; ScenarioProfilePlugIn; 21112; 10584] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:19; INFO; ScenarioProfilePlugIn; 21112; 10584] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:41:19; INFO; ScenarioProfilePlugIn; 21112; 10584] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:19; INFO; ScenarioProfilePlugIn; 21112; 10584] (MonitorHandler) No linked profile
+2024-06-11 12:41:19; INFO; ScenarioProfilePlugIn; 21112; 10584] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:19; INFO; ScenarioProfilePlugIn; 21112; 10584] Finish DoForegroundEvent()
+2024-06-11 12:41:19; INFO; AC_FDSPlugIn; 21112; 10584] CallLibrary End
+2024-06-11 12:41:22; INFO; AC_FDSPlugIn; 21112; 13456] CallLibrary Start
+2024-06-11 12:41:22; INFO; AC_FDSPlugIn; 21112; 13456] CallLibrary End
+2024-06-11 12:41:22; INFO; AC_FDSPlugIn; 21112; 9824] CallLibrary Start
+2024-06-11 12:41:22; INFO; ScenarioProfilePlugIn; 21112; 9824] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:22; INFO; ScenarioProfilePlugIn; 21112; 9824] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:22; INFO; ScenarioProfilePlugIn; 21112; 9824] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:22; INFO; ScenarioProfilePlugIn; 21112; 9824] (MonitorHandler) No linked profile
+2024-06-11 12:41:22; INFO; ScenarioProfilePlugIn; 21112; 9824] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:22; INFO; ScenarioProfilePlugIn; 21112; 9824] Finish DoForegroundEvent()
+2024-06-11 12:41:22; INFO; AC_FDSPlugIn; 21112; 9824] CallLibrary End
+2024-06-11 12:41:26; INFO; AC_FDSPlugIn; 21112; 10448] CallLibrary Start
+2024-06-11 12:41:26; INFO; AC_FDSPlugIn; 21112; 10448] CallLibrary End
+2024-06-11 12:41:26; INFO; AC_FDSPlugIn; 21112; 9364] CallLibrary Start
+2024-06-11 12:41:26; INFO; ScenarioProfilePlugIn; 21112; 9364] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:26; INFO; ScenarioProfilePlugIn; 21112; 9364] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:26; INFO; ScenarioProfilePlugIn; 21112; 9364] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:26; INFO; ScenarioProfilePlugIn; 21112; 9364] (MonitorHandler) No linked profile
+2024-06-11 12:41:26; INFO; ScenarioProfilePlugIn; 21112; 9364] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:26; INFO; ScenarioProfilePlugIn; 21112; 9364] Finish DoForegroundEvent()
+2024-06-11 12:41:26; INFO; AC_FDSPlugIn; 21112; 9364] CallLibrary End
+2024-06-11 12:41:27; INFO; AC_FDSPlugIn; 21112; 19556] CallLibrary Start
+2024-06-11 12:41:27; INFO; AC_FDSPlugIn; 21112; 19556] CallLibrary End
+2024-06-11 12:41:27; INFO; AC_FDSPlugIn; 21112; 9996] CallLibrary Start
+2024-06-11 12:41:27; INFO; ScenarioProfilePlugIn; 21112; 9996] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:27; INFO; ScenarioProfilePlugIn; 21112; 9996] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:41:27; INFO; ScenarioProfilePlugIn; 21112; 9996] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:27; INFO; ScenarioProfilePlugIn; 21112; 9996] (MonitorHandler) No linked profile
+2024-06-11 12:41:27; INFO; ScenarioProfilePlugIn; 21112; 9996] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:27; INFO; ScenarioProfilePlugIn; 21112; 9996] Finish DoForegroundEvent()
+2024-06-11 12:41:27; INFO; AC_FDSPlugIn; 21112; 9996] CallLibrary End
+2024-06-11 12:41:28; INFO; AC_FDSPlugIn; 21112; 25076] CallLibrary Start
+2024-06-11 12:41:28; INFO; ScenarioProfilePlugIn; 21112; 25076] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:28; INFO; ScenarioProfilePlugIn; 21112; 25076] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:28; INFO; ScenarioProfilePlugIn; 21112; 25076] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:28; INFO; ScenarioProfilePlugIn; 21112; 25076] (MonitorHandler) No linked profile
+2024-06-11 12:41:28; INFO; ScenarioProfilePlugIn; 21112; 25076] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:28; INFO; ScenarioProfilePlugIn; 21112; 25076] Finish DoForegroundEvent()
+2024-06-11 12:41:28; INFO; AC_FDSPlugIn; 21112; 25076] CallLibrary End
+2024-06-11 12:41:28; INFO; AC_FDSPlugIn; 21112; 8372] CallLibrary Start
+2024-06-11 12:41:28; INFO; AC_FDSPlugIn; 21112; 8372] CallLibrary End
+2024-06-11 12:41:30; INFO; AC_FDSPlugIn; 21112; 2820] CallLibrary Start
+2024-06-11 12:41:30; INFO; AC_FDSPlugIn; 21112; 2820] CallLibrary End
+2024-06-11 12:41:30; INFO; AC_FDSPlugIn; 21112; 17840] CallLibrary Start
+2024-06-11 12:41:30; INFO; ScenarioProfilePlugIn; 21112; 17840] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:30; INFO; ScenarioProfilePlugIn; 21112; 17840] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:30; INFO; ScenarioProfilePlugIn; 21112; 17840] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:30; INFO; ScenarioProfilePlugIn; 21112; 17840] (MonitorHandler) No linked profile
+2024-06-11 12:41:30; INFO; ScenarioProfilePlugIn; 21112; 17840] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:30; INFO; ScenarioProfilePlugIn; 21112; 17840] Finish DoForegroundEvent()
+2024-06-11 12:41:30; INFO; AC_FDSPlugIn; 21112; 17840] CallLibrary End
+2024-06-11 12:41:32; INFO; Loopback Stream; 21112; 7860] CallLibrary Start
+2024-06-11 12:41:32; INFO; Loopback Stream; 21112; 7860] CallLibrary End
+2024-06-11 12:41:41; INFO; AC_FDSPlugIn; 21112; 22628] CallLibrary Start
+2024-06-11 12:41:41; INFO; AC_FDSPlugIn; 21112; 22628] CallLibrary End
+2024-06-11 12:41:41; INFO; AC_FDSPlugIn; 21112; 24076] CallLibrary Start
+2024-06-11 12:41:41; INFO; ScenarioProfilePlugIn; 21112; 24076] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:41; INFO; ScenarioProfilePlugIn; 21112; 24076] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:41; INFO; ScenarioProfilePlugIn; 21112; 24076] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:41; INFO; ScenarioProfilePlugIn; 21112; 24076] (MonitorHandler) No linked profile
+2024-06-11 12:41:41; INFO; ScenarioProfilePlugIn; 21112; 24076] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:41; INFO; ScenarioProfilePlugIn; 21112; 24076] Finish DoForegroundEvent()
+2024-06-11 12:41:41; INFO; AC_FDSPlugIn; 21112; 24076] CallLibrary End
+2024-06-11 12:41:45; INFO; AC_FDSPlugIn; 21112; 17764] CallLibrary Start
+2024-06-11 12:41:45; INFO; AC_FDSPlugIn; 21112; 17764] CallLibrary End
+2024-06-11 12:41:45; INFO; AC_FDSPlugIn; 21112; 11748] CallLibrary Start
+2024-06-11 12:41:45; INFO; ScenarioProfilePlugIn; 21112; 11748] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:45; INFO; ScenarioProfilePlugIn; 21112; 11748] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:45; INFO; ScenarioProfilePlugIn; 21112; 11748] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:45; INFO; ScenarioProfilePlugIn; 21112; 11748] (MonitorHandler) No linked profile
+2024-06-11 12:41:45; INFO; ScenarioProfilePlugIn; 21112; 11748] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:45; INFO; ScenarioProfilePlugIn; 21112; 11748] Finish DoForegroundEvent()
+2024-06-11 12:41:45; INFO; AC_FDSPlugIn; 21112; 11748] CallLibrary End
+2024-06-11 12:41:49; INFO; AC_FDSPlugIn; 21112; 8304] CallLibrary Start
+2024-06-11 12:41:49; INFO; AC_FDSPlugIn; 21112; 8304] CallLibrary End
+2024-06-11 12:41:49; INFO; AC_FDSPlugIn; 21112; 13956] CallLibrary Start
+2024-06-11 12:41:49; INFO; ScenarioProfilePlugIn; 21112; 13956] ProcessRequest : DoForegroundEvent
+2024-06-11 12:41:49; INFO; ScenarioProfilePlugIn; 21112; 13956] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:41:49; INFO; ScenarioProfilePlugIn; 21112; 13956] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:41:49; INFO; ScenarioProfilePlugIn; 21112; 13956] (MonitorHandler) No linked profile
+2024-06-11 12:41:49; INFO; ScenarioProfilePlugIn; 21112; 13956] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:41:49; INFO; ScenarioProfilePlugIn; 21112; 13956] Finish DoForegroundEvent()
+2024-06-11 12:41:49; INFO; AC_FDSPlugIn; 21112; 13956] CallLibrary End
+2024-06-11 12:42:02; INFO; Loopback Stream; 21112; 1560] CallLibrary Start
+2024-06-11 12:42:02; INFO; Loopback Stream; 21112; 1560] CallLibrary End
+2024-06-11 12:42:32; INFO; Loopback Stream; 21112; 25640] CallLibrary Start
+2024-06-11 12:42:32; INFO; Loopback Stream; 21112; 25640] CallLibrary End
+2024-06-11 12:43:02; INFO; Loopback Stream; 21112; 15816] CallLibrary Start
+2024-06-11 12:43:02; INFO; Loopback Stream; 21112; 15816] CallLibrary End
+2024-06-11 12:43:32; INFO; Loopback Stream; 21112; 22308] CallLibrary Start
+2024-06-11 12:43:32; INFO; Loopback Stream; 21112; 22308] CallLibrary End
+2024-06-11 12:44:02; INFO; Loopback Stream; 21112; 22168] CallLibrary Start
+2024-06-11 12:44:02; INFO; Loopback Stream; 21112; 22168] CallLibrary End
+2024-06-11 12:44:32; INFO; Loopback Stream; 21112; 23820] CallLibrary Start
+2024-06-11 12:44:32; INFO; Loopback Stream; 21112; 23820] CallLibrary End
+2024-06-11 12:45:02; INFO; Loopback Stream; 21112; 22100] CallLibrary Start
+2024-06-11 12:45:02; INFO; Loopback Stream; 21112; 22100] CallLibrary End
+2024-06-11 12:45:32; INFO; Loopback Stream; 21112; 7196] CallLibrary Start
+2024-06-11 12:45:32; INFO; Loopback Stream; 21112; 7196] CallLibrary End
+2024-06-11 12:46:02; INFO; Loopback Stream; 21112; 19700] CallLibrary Start
+2024-06-11 12:46:02; INFO; Loopback Stream; 21112; 19700] CallLibrary End
+2024-06-11 12:46:32; INFO; Loopback Stream; 21112; 20816] CallLibrary Start
+2024-06-11 12:46:32; INFO; Loopback Stream; 21112; 20816] CallLibrary End
+2024-06-11 12:46:51; INFO; AC_FDSPlugIn; 21112; 21528] CallLibrary Start
+2024-06-11 12:46:51; INFO; AC_FDSPlugIn; 21112; 21528] CallLibrary End
+2024-06-11 12:46:51; INFO; AC_FDSPlugIn; 21112; 996] CallLibrary Start
+2024-06-11 12:46:51; INFO; ScenarioProfilePlugIn; 21112; 996] ProcessRequest : DoForegroundEvent
+2024-06-11 12:46:51; INFO; ScenarioProfilePlugIn; 21112; 996] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:46:51; INFO; ScenarioProfilePlugIn; 21112; 996] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:46:51; INFO; ScenarioProfilePlugIn; 21112; 996] (MonitorHandler) No linked profile
+2024-06-11 12:46:51; INFO; ScenarioProfilePlugIn; 21112; 996] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:46:51; INFO; ScenarioProfilePlugIn; 21112; 996] Finish DoForegroundEvent()
+2024-06-11 12:46:51; INFO; AC_FDSPlugIn; 21112; 996] CallLibrary End
+2024-06-11 12:47:00; INFO; AC_FDSPlugIn; 21112; 25232] CallLibrary Start
+2024-06-11 12:47:00; INFO; AC_FDSPlugIn; 21112; 25232] CallLibrary End
+2024-06-11 12:47:00; INFO; AC_FDSPlugIn; 21112; 24084] CallLibrary Start
+2024-06-11 12:47:00; INFO; ScenarioProfilePlugIn; 21112; 24084] ProcessRequest : DoForegroundEvent
+2024-06-11 12:47:00; INFO; ScenarioProfilePlugIn; 21112; 24084] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:47:00; INFO; ScenarioProfilePlugIn; 21112; 24084] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:47:00; INFO; ScenarioProfilePlugIn; 21112; 24084] (MonitorHandler) No linked profile
+2024-06-11 12:47:00; INFO; ScenarioProfilePlugIn; 21112; 24084] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:47:00; INFO; ScenarioProfilePlugIn; 21112; 24084] Finish DoForegroundEvent()
+2024-06-11 12:47:00; INFO; AC_FDSPlugIn; 21112; 24084] CallLibrary End
+2024-06-11 12:47:02; INFO; Loopback Stream; 21112; 12376] CallLibrary Start
+2024-06-11 12:47:02; INFO; Loopback Stream; 21112; 12376] CallLibrary End
+2024-06-11 12:47:32; INFO; Loopback Stream; 21112; 21808] CallLibrary Start
+2024-06-11 12:47:32; INFO; Loopback Stream; 21112; 21808] CallLibrary End
+2024-06-11 12:47:34; INFO; AC_FDSPlugIn; 21112; 7984] CallLibrary Start
+2024-06-11 12:47:34; INFO; AC_FDSPlugIn; 21112; 7984] CallLibrary End
+2024-06-11 12:47:34; INFO; AC_FDSPlugIn; 21112; 18784] CallLibrary Start
+2024-06-11 12:47:34; INFO; ScenarioProfilePlugIn; 21112; 18784] ProcessRequest : DoForegroundEvent
+2024-06-11 12:47:34; INFO; ScenarioProfilePlugIn; 21112; 18784] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:47:34; INFO; ScenarioProfilePlugIn; 21112; 18784] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:47:34; INFO; ScenarioProfilePlugIn; 21112; 18784] (MonitorHandler) No linked profile
+2024-06-11 12:47:34; INFO; ScenarioProfilePlugIn; 21112; 18784] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:47:34; INFO; ScenarioProfilePlugIn; 21112; 18784] Finish DoForegroundEvent()
+2024-06-11 12:47:34; INFO; AC_FDSPlugIn; 21112; 18784] CallLibrary End
+2024-06-11 12:48:02; INFO; Loopback Stream; 21112; 17860] CallLibrary Start
+2024-06-11 12:48:02; INFO; Loopback Stream; 21112; 17860] CallLibrary End
+2024-06-11 12:48:32; INFO; Loopback Stream; 21112; 15144] CallLibrary Start
+2024-06-11 12:48:32; INFO; Loopback Stream; 21112; 15144] CallLibrary End
+2024-06-11 12:49:02; INFO; Loopback Stream; 21112; 2524] CallLibrary Start
+2024-06-11 12:49:02; INFO; Loopback Stream; 21112; 2524] CallLibrary End
+2024-06-11 12:49:32; INFO; Loopback Stream; 21112; 14224] CallLibrary Start
+2024-06-11 12:49:32; INFO; Loopback Stream; 21112; 14224] CallLibrary End
+2024-06-11 12:50:02; INFO; Loopback Stream; 21112; 24312] CallLibrary Start
+2024-06-11 12:50:02; INFO; Loopback Stream; 21112; 24312] CallLibrary End
+2024-06-11 12:50:22; INFO; AC_FDSPlugIn; 21112; 26524] CallLibrary Start
+2024-06-11 12:50:22; INFO; AC_FDSPlugIn; 21112; 26524] CallLibrary End
+2024-06-11 12:50:22; INFO; AC_FDSPlugIn; 21112; 3840] CallLibrary Start
+2024-06-11 12:50:22; INFO; ScenarioProfilePlugIn; 21112; 3840] ProcessRequest : DoForegroundEvent
+2024-06-11 12:50:22; INFO; ScenarioProfilePlugIn; 21112; 3840] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:50:22; INFO; ScenarioProfilePlugIn; 21112; 3840] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:50:22; INFO; ScenarioProfilePlugIn; 21112; 3840] (MonitorHandler) No linked profile
+2024-06-11 12:50:22; INFO; ScenarioProfilePlugIn; 21112; 3840] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:50:22; INFO; ScenarioProfilePlugIn; 21112; 3840] Finish DoForegroundEvent()
+2024-06-11 12:50:22; INFO; AC_FDSPlugIn; 21112; 3840] CallLibrary End
+2024-06-11 12:50:24; INFO; AC_FDSPlugIn; 21112; 10836] CallLibrary Start
+2024-06-11 12:50:24; INFO; AC_FDSPlugIn; 21112; 10836] CallLibrary End
+2024-06-11 12:50:24; INFO; AC_FDSPlugIn; 21112; 21488] CallLibrary Start
+2024-06-11 12:50:24; INFO; ScenarioProfilePlugIn; 21112; 21488] ProcessRequest : DoForegroundEvent
+2024-06-11 12:50:24; INFO; ScenarioProfilePlugIn; 21112; 21488] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:50:24; INFO; ScenarioProfilePlugIn; 21112; 21488] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:50:24; INFO; ScenarioProfilePlugIn; 21112; 21488] (MonitorHandler) No linked profile
+2024-06-11 12:50:24; INFO; ScenarioProfilePlugIn; 21112; 21488] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:50:24; INFO; ScenarioProfilePlugIn; 21112; 21488] Finish DoForegroundEvent()
+2024-06-11 12:50:24; INFO; AC_FDSPlugIn; 21112; 21488] CallLibrary End
+2024-06-11 12:50:27; INFO; AC_FDSPlugIn; 21112; 18588] CallLibrary Start
+2024-06-11 12:50:27; INFO; ScenarioProfilePlugIn; 21112; 18588] ProcessRequest : DoForegroundEvent
+2024-06-11 12:50:27; INFO; ScenarioProfilePlugIn; 21112; 18588] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:50:27; INFO; ScenarioProfilePlugIn; 21112; 18588] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:50:27; INFO; ScenarioProfilePlugIn; 21112; 18588] (MonitorHandler) No linked profile
+2024-06-11 12:50:27; INFO; ScenarioProfilePlugIn; 21112; 18588] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:50:27; INFO; ScenarioProfilePlugIn; 21112; 18588] Finish DoForegroundEvent()
+2024-06-11 12:50:27; INFO; AC_FDSPlugIn; 21112; 18588] CallLibrary End
+2024-06-11 12:50:27; INFO; AC_FDSPlugIn; 21112; 17204] CallLibrary Start
+2024-06-11 12:50:27; INFO; AC_FDSPlugIn; 21112; 17204] CallLibrary End
+2024-06-11 12:50:30; INFO; AC_FDSPlugIn; 21112; 12160] CallLibrary Start
+2024-06-11 12:50:30; INFO; AC_FDSPlugIn; 21112; 12160] CallLibrary End
+2024-06-11 12:50:30; INFO; AC_FDSPlugIn; 21112; 23824] CallLibrary Start
+2024-06-11 12:50:30; INFO; ScenarioProfilePlugIn; 21112; 23824] ProcessRequest : DoForegroundEvent
+2024-06-11 12:50:30; INFO; ScenarioProfilePlugIn; 21112; 23824] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:50:30; INFO; ScenarioProfilePlugIn; 21112; 23824] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:50:30; INFO; ScenarioProfilePlugIn; 21112; 23824] (MonitorHandler) No linked profile
+2024-06-11 12:50:30; INFO; ScenarioProfilePlugIn; 21112; 23824] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:50:30; INFO; ScenarioProfilePlugIn; 21112; 23824] Finish DoForegroundEvent()
+2024-06-11 12:50:30; INFO; AC_FDSPlugIn; 21112; 23824] CallLibrary End
+2024-06-11 12:50:32; INFO; Loopback Stream; 21112; 23580] CallLibrary Start
+2024-06-11 12:50:32; INFO; Loopback Stream; 21112; 23580] CallLibrary End
+2024-06-11 12:50:46; INFO; AC_FDSPlugIn; 21112; 21804] CallLibrary Start
+2024-06-11 12:50:46; INFO; AC_FDSPlugIn; 21112; 21804] CallLibrary End
+2024-06-11 12:50:46; INFO; AC_FDSPlugIn; 21112; 23880] CallLibrary Start
+2024-06-11 12:50:46; INFO; ScenarioProfilePlugIn; 21112; 23880] ProcessRequest : DoForegroundEvent
+2024-06-11 12:50:46; INFO; ScenarioProfilePlugIn; 21112; 23880] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:50:46; INFO; ScenarioProfilePlugIn; 21112; 23880] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:50:46; INFO; ScenarioProfilePlugIn; 21112; 23880] (MonitorHandler) No linked profile
+2024-06-11 12:50:46; INFO; ScenarioProfilePlugIn; 21112; 23880] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:50:46; INFO; ScenarioProfilePlugIn; 21112; 23880] Finish DoForegroundEvent()
+2024-06-11 12:50:46; INFO; AC_FDSPlugIn; 21112; 23880] CallLibrary End
+2024-06-11 12:50:55; INFO; AC_FDSPlugIn; 21112; 5056] CallLibrary Start
+2024-06-11 12:50:55; INFO; AC_FDSPlugIn; 21112; 5056] CallLibrary End
+2024-06-11 12:50:55; INFO; AC_FDSPlugIn; 21112; 25624] CallLibrary Start
+2024-06-11 12:50:55; INFO; ScenarioProfilePlugIn; 21112; 25624] ProcessRequest : DoForegroundEvent
+2024-06-11 12:50:55; INFO; ScenarioProfilePlugIn; 21112; 25624] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:50:55; INFO; ScenarioProfilePlugIn; 21112; 25624] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:50:55; INFO; ScenarioProfilePlugIn; 21112; 25624] (MonitorHandler) No linked profile
+2024-06-11 12:50:55; INFO; ScenarioProfilePlugIn; 21112; 25624] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:50:55; INFO; ScenarioProfilePlugIn; 21112; 25624] Finish DoForegroundEvent()
+2024-06-11 12:50:55; INFO; AC_FDSPlugIn; 21112; 25624] CallLibrary End
+2024-06-11 12:51:00; INFO; AC_FDSPlugIn; 21112; 26224] CallLibrary Start
+2024-06-11 12:51:00; INFO; ScenarioProfilePlugIn; 21112; 26224] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:00; INFO; ScenarioProfilePlugIn; 21112; 26224] (DoForegroundEvent) PID=5492, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:00; INFO; ScenarioProfilePlugIn; 21112; 26224] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:00; INFO; ScenarioProfilePlugIn; 21112; 26224] (MonitorHandler) No linked profile
+2024-06-11 12:51:00; INFO; ScenarioProfilePlugIn; 21112; 26224] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:00; INFO; ScenarioProfilePlugIn; 21112; 26224] Finish DoForegroundEvent()
+2024-06-11 12:51:00; INFO; AC_FDSPlugIn; 21112; 26224] CallLibrary End
+2024-06-11 12:51:00; INFO; AC_FDSPlugIn; 21112; 2828] CallLibrary Start
+2024-06-11 12:51:00; INFO; AC_FDSPlugIn; 21112; 2828] CallLibrary End
+2024-06-11 12:51:02; INFO; Loopback Stream; 21112; 19476] CallLibrary Start
+2024-06-11 12:51:02; INFO; Loopback Stream; 21112; 19476] CallLibrary End
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 9440] CallLibrary Start
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 9440] CallLibrary End
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 23524] CallLibrary Start
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 23524] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 23524] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 23524] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 23524] (MonitorHandler) No linked profile
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 23524] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 23524] Finish DoForegroundEvent()
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 23524] CallLibrary End
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 13008] CallLibrary Start
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 13008] CallLibrary End
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 2416] CallLibrary Start
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 2416] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 2416] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 2416] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 2416] (MonitorHandler) No linked profile
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 2416] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:06; INFO; ScenarioProfilePlugIn; 21112; 2416] Finish DoForegroundEvent()
+2024-06-11 12:51:06; INFO; AC_FDSPlugIn; 21112; 2416] CallLibrary End
+2024-06-11 12:51:08; INFO; AC_FDSPlugIn; 21112; 11476] CallLibrary Start
+2024-06-11 12:51:08; INFO; ScenarioProfilePlugIn; 21112; 11476] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:08; INFO; ScenarioProfilePlugIn; 21112; 11476] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:08; INFO; ScenarioProfilePlugIn; 21112; 11476] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:08; INFO; ScenarioProfilePlugIn; 21112; 11476] (MonitorHandler) No linked profile
+2024-06-11 12:51:08; INFO; ScenarioProfilePlugIn; 21112; 11476] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:08; INFO; ScenarioProfilePlugIn; 21112; 11476] Finish DoForegroundEvent()
+2024-06-11 12:51:08; INFO; AC_FDSPlugIn; 21112; 11476] CallLibrary End
+2024-06-11 12:51:08; INFO; AC_FDSPlugIn; 21112; 20032] CallLibrary Start
+2024-06-11 12:51:08; INFO; AC_FDSPlugIn; 21112; 20032] CallLibrary End
+2024-06-11 12:51:19; INFO; AC_FDSPlugIn; 21112; 20404] CallLibrary Start
+2024-06-11 12:51:19; INFO; AC_FDSPlugIn; 21112; 20404] CallLibrary End
+2024-06-11 12:51:19; INFO; AC_FDSPlugIn; 21112; 20716] CallLibrary Start
+2024-06-11 12:51:19; INFO; ScenarioProfilePlugIn; 21112; 20716] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:19; INFO; ScenarioProfilePlugIn; 21112; 20716] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:19; INFO; ScenarioProfilePlugIn; 21112; 20716] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:19; INFO; ScenarioProfilePlugIn; 21112; 20716] (MonitorHandler) No linked profile
+2024-06-11 12:51:19; INFO; ScenarioProfilePlugIn; 21112; 20716] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:19; INFO; ScenarioProfilePlugIn; 21112; 20716] Finish DoForegroundEvent()
+2024-06-11 12:51:19; INFO; AC_FDSPlugIn; 21112; 20716] CallLibrary End
+2024-06-11 12:51:25; INFO; AC_FDSPlugIn; 21112; 11472] CallLibrary Start
+2024-06-11 12:51:25; INFO; AC_FDSPlugIn; 21112; 11472] CallLibrary End
+2024-06-11 12:51:25; INFO; AC_FDSPlugIn; 21112; 19408] CallLibrary Start
+2024-06-11 12:51:25; INFO; ScenarioProfilePlugIn; 21112; 19408] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:25; INFO; ScenarioProfilePlugIn; 21112; 19408] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:25; INFO; ScenarioProfilePlugIn; 21112; 19408] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:25; INFO; ScenarioProfilePlugIn; 21112; 19408] (MonitorHandler) No linked profile
+2024-06-11 12:51:25; INFO; ScenarioProfilePlugIn; 21112; 19408] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:25; INFO; ScenarioProfilePlugIn; 21112; 19408] Finish DoForegroundEvent()
+2024-06-11 12:51:25; INFO; AC_FDSPlugIn; 21112; 19408] CallLibrary End
+2024-06-11 12:51:32; INFO; Loopback Stream; 21112; 23892] CallLibrary Start
+2024-06-11 12:51:32; INFO; Loopback Stream; 21112; 23892] CallLibrary End
+2024-06-11 12:51:36; INFO; AC_FDSPlugIn; 21112; 20792] CallLibrary Start
+2024-06-11 12:51:36; INFO; AC_FDSPlugIn; 21112; 20792] CallLibrary End
+2024-06-11 12:51:36; INFO; AC_FDSPlugIn; 21112; 22552] CallLibrary Start
+2024-06-11 12:51:36; INFO; ScenarioProfilePlugIn; 21112; 22552] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:36; INFO; ScenarioProfilePlugIn; 21112; 22552] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:36; INFO; ScenarioProfilePlugIn; 21112; 22552] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:36; INFO; ScenarioProfilePlugIn; 21112; 22552] (MonitorHandler) No linked profile
+2024-06-11 12:51:36; INFO; ScenarioProfilePlugIn; 21112; 22552] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:36; INFO; ScenarioProfilePlugIn; 21112; 22552] Finish DoForegroundEvent()
+2024-06-11 12:51:36; INFO; AC_FDSPlugIn; 21112; 22552] CallLibrary End
+2024-06-11 12:51:40; INFO; AC_FDSPlugIn; 21112; 22888] CallLibrary Start
+2024-06-11 12:51:40; INFO; AC_FDSPlugIn; 21112; 22888] CallLibrary End
+2024-06-11 12:51:40; INFO; AC_FDSPlugIn; 21112; 5188] CallLibrary Start
+2024-06-11 12:51:40; INFO; ScenarioProfilePlugIn; 21112; 5188] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:40; INFO; ScenarioProfilePlugIn; 21112; 5188] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:40; INFO; ScenarioProfilePlugIn; 21112; 5188] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:40; INFO; ScenarioProfilePlugIn; 21112; 5188] (MonitorHandler) No linked profile
+2024-06-11 12:51:40; INFO; ScenarioProfilePlugIn; 21112; 5188] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:40; INFO; ScenarioProfilePlugIn; 21112; 5188] Finish DoForegroundEvent()
+2024-06-11 12:51:40; INFO; AC_FDSPlugIn; 21112; 5188] CallLibrary End
+2024-06-11 12:51:44; INFO; AC_FDSPlugIn; 21112; 15856] CallLibrary Start
+2024-06-11 12:51:44; INFO; ScenarioProfilePlugIn; 21112; 15856] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:44; INFO; ScenarioProfilePlugIn; 21112; 15856] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:44; INFO; ScenarioProfilePlugIn; 21112; 15856] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:44; INFO; ScenarioProfilePlugIn; 21112; 15856] (MonitorHandler) No linked profile
+2024-06-11 12:51:44; INFO; ScenarioProfilePlugIn; 21112; 15856] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:44; INFO; ScenarioProfilePlugIn; 21112; 15856] Finish DoForegroundEvent()
+2024-06-11 12:51:44; INFO; AC_FDSPlugIn; 21112; 15856] CallLibrary End
+2024-06-11 12:51:44; INFO; AC_FDSPlugIn; 21112; 3436] CallLibrary Start
+2024-06-11 12:51:44; INFO; AC_FDSPlugIn; 21112; 3436] CallLibrary End
+2024-06-11 12:51:49; INFO; AC_FDSPlugIn; 21112; 19340] CallLibrary Start
+2024-06-11 12:51:49; INFO; AC_FDSPlugIn; 21112; 19340] CallLibrary End
+2024-06-11 12:51:49; INFO; AC_FDSPlugIn; 21112; 18552] CallLibrary Start
+2024-06-11 12:51:49; INFO; ScenarioProfilePlugIn; 21112; 18552] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:49; INFO; ScenarioProfilePlugIn; 21112; 18552] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:49; INFO; ScenarioProfilePlugIn; 21112; 18552] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:49; INFO; ScenarioProfilePlugIn; 21112; 18552] (MonitorHandler) No linked profile
+2024-06-11 12:51:49; INFO; ScenarioProfilePlugIn; 21112; 18552] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:49; INFO; ScenarioProfilePlugIn; 21112; 18552] Finish DoForegroundEvent()
+2024-06-11 12:51:49; INFO; AC_FDSPlugIn; 21112; 18552] CallLibrary End
+2024-06-11 12:51:52; INFO; AC_FDSPlugIn; 21112; 19344] CallLibrary Start
+2024-06-11 12:51:52; INFO; AC_FDSPlugIn; 21112; 19344] CallLibrary End
+2024-06-11 12:51:52; INFO; AC_FDSPlugIn; 21112; 10816] CallLibrary Start
+2024-06-11 12:51:52; INFO; ScenarioProfilePlugIn; 21112; 10816] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:52; INFO; ScenarioProfilePlugIn; 21112; 10816] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:52; INFO; ScenarioProfilePlugIn; 21112; 10816] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:52; INFO; ScenarioProfilePlugIn; 21112; 10816] (MonitorHandler) No linked profile
+2024-06-11 12:51:52; INFO; ScenarioProfilePlugIn; 21112; 10816] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:52; INFO; ScenarioProfilePlugIn; 21112; 10816] Finish DoForegroundEvent()
+2024-06-11 12:51:52; INFO; AC_FDSPlugIn; 21112; 10816] CallLibrary End
+2024-06-11 12:51:54; INFO; AC_FDSPlugIn; 21112; 14316] CallLibrary Start
+2024-06-11 12:51:54; INFO; ScenarioProfilePlugIn; 21112; 14316] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:54; INFO; ScenarioProfilePlugIn; 21112; 14316] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:54; INFO; ScenarioProfilePlugIn; 21112; 14316] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:54; INFO; ScenarioProfilePlugIn; 21112; 14316] (MonitorHandler) No linked profile
+2024-06-11 12:51:54; INFO; ScenarioProfilePlugIn; 21112; 14316] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:54; INFO; ScenarioProfilePlugIn; 21112; 14316] Finish DoForegroundEvent()
+2024-06-11 12:51:54; INFO; AC_FDSPlugIn; 21112; 14316] CallLibrary End
+2024-06-11 12:51:54; INFO; AC_FDSPlugIn; 21112; 19088] CallLibrary Start
+2024-06-11 12:51:54; INFO; AC_FDSPlugIn; 21112; 19088] CallLibrary End
+2024-06-11 12:51:56; INFO; AC_FDSPlugIn; 21112; 20696] CallLibrary Start
+2024-06-11 12:51:56; INFO; AC_FDSPlugIn; 21112; 20696] CallLibrary End
+2024-06-11 12:51:56; INFO; AC_FDSPlugIn; 21112; 10592] CallLibrary Start
+2024-06-11 12:51:56; INFO; ScenarioProfilePlugIn; 21112; 10592] ProcessRequest : DoForegroundEvent
+2024-06-11 12:51:56; INFO; ScenarioProfilePlugIn; 21112; 10592] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:51:56; INFO; ScenarioProfilePlugIn; 21112; 10592] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:51:56; INFO; ScenarioProfilePlugIn; 21112; 10592] (MonitorHandler) No linked profile
+2024-06-11 12:51:56; INFO; ScenarioProfilePlugIn; 21112; 10592] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:51:56; INFO; ScenarioProfilePlugIn; 21112; 10592] Finish DoForegroundEvent()
+2024-06-11 12:51:56; INFO; AC_FDSPlugIn; 21112; 10592] CallLibrary End
+2024-06-11 12:52:01; INFO; AC_FDSPlugIn; 21112; 6340] CallLibrary Start
+2024-06-11 12:52:01; INFO; AC_FDSPlugIn; 21112; 6340] CallLibrary End
+2024-06-11 12:52:01; INFO; AC_FDSPlugIn; 21112; 13672] CallLibrary Start
+2024-06-11 12:52:01; INFO; ScenarioProfilePlugIn; 21112; 13672] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:01; INFO; ScenarioProfilePlugIn; 21112; 13672] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:52:01; INFO; ScenarioProfilePlugIn; 21112; 13672] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:01; INFO; ScenarioProfilePlugIn; 21112; 13672] (MonitorHandler) No linked profile
+2024-06-11 12:52:01; INFO; ScenarioProfilePlugIn; 21112; 13672] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:01; INFO; ScenarioProfilePlugIn; 21112; 13672] Finish DoForegroundEvent()
+2024-06-11 12:52:01; INFO; AC_FDSPlugIn; 21112; 13672] CallLibrary End
+2024-06-11 12:52:02; INFO; Loopback Stream; 21112; 13100] CallLibrary Start
+2024-06-11 12:52:02; INFO; Loopback Stream; 21112; 13100] CallLibrary End
+2024-06-11 12:52:04; INFO; AC_FDSPlugIn; 21112; 24484] CallLibrary Start
+2024-06-11 12:52:04; INFO; AC_FDSPlugIn; 21112; 24484] CallLibrary End
+2024-06-11 12:52:04; INFO; AC_FDSPlugIn; 21112; 21516] CallLibrary Start
+2024-06-11 12:52:04; INFO; ScenarioProfilePlugIn; 21112; 21516] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:04; INFO; ScenarioProfilePlugIn; 21112; 21516] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:52:04; INFO; ScenarioProfilePlugIn; 21112; 21516] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:04; INFO; ScenarioProfilePlugIn; 21112; 21516] (MonitorHandler) No linked profile
+2024-06-11 12:52:04; INFO; ScenarioProfilePlugIn; 21112; 21516] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:04; INFO; ScenarioProfilePlugIn; 21112; 21516] Finish DoForegroundEvent()
+2024-06-11 12:52:04; INFO; AC_FDSPlugIn; 21112; 21516] CallLibrary End
+2024-06-11 12:52:05; INFO; AC_FDSPlugIn; 21112; 18568] CallLibrary Start
+2024-06-11 12:52:05; INFO; AC_FDSPlugIn; 21112; 18568] CallLibrary End
+2024-06-11 12:52:05; INFO; AC_FDSPlugIn; 21112; 6404] CallLibrary Start
+2024-06-11 12:52:05; INFO; ScenarioProfilePlugIn; 21112; 6404] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:05; INFO; ScenarioProfilePlugIn; 21112; 6404] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:52:05; INFO; ScenarioProfilePlugIn; 21112; 6404] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:05; INFO; ScenarioProfilePlugIn; 21112; 6404] (MonitorHandler) No linked profile
+2024-06-11 12:52:05; INFO; ScenarioProfilePlugIn; 21112; 6404] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:05; INFO; ScenarioProfilePlugIn; 21112; 6404] Finish DoForegroundEvent()
+2024-06-11 12:52:05; INFO; AC_FDSPlugIn; 21112; 6404] CallLibrary End
+2024-06-11 12:52:12; INFO; AC_FDSPlugIn; 21112; 6496] CallLibrary Start
+2024-06-11 12:52:12; INFO; ScenarioProfilePlugIn; 21112; 6496] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:12; INFO; ScenarioProfilePlugIn; 21112; 6496] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:52:12; INFO; ScenarioProfilePlugIn; 21112; 6496] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:12; INFO; ScenarioProfilePlugIn; 21112; 6496] (MonitorHandler) No linked profile
+2024-06-11 12:52:12; INFO; ScenarioProfilePlugIn; 21112; 6496] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:12; INFO; ScenarioProfilePlugIn; 21112; 6496] Finish DoForegroundEvent()
+2024-06-11 12:52:12; INFO; AC_FDSPlugIn; 21112; 6496] CallLibrary End
+2024-06-11 12:52:12; INFO; AC_FDSPlugIn; 21112; 13112] CallLibrary Start
+2024-06-11 12:52:12; INFO; AC_FDSPlugIn; 21112; 13112] CallLibrary End
+2024-06-11 12:52:16; INFO; AC_FDSPlugIn; 21112; 15504] CallLibrary Start
+2024-06-11 12:52:16; INFO; AC_FDSPlugIn; 21112; 15504] CallLibrary End
+2024-06-11 12:52:16; INFO; AC_FDSPlugIn; 21112; 3032] CallLibrary Start
+2024-06-11 12:52:16; INFO; ScenarioProfilePlugIn; 21112; 3032] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:16; INFO; ScenarioProfilePlugIn; 21112; 3032] (DoForegroundEvent) PID=24184, Path="Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App", AppType=UWP
+2024-06-11 12:52:16; INFO; ScenarioProfilePlugIn; 21112; 3032] (DoForegroundEvent) isFilter = 1, AutoApplyOnOff= On
+2024-06-11 12:52:16; INFO; ScenarioProfilePlugIn; 21112; 3032] Finish DoForegroundEvent()
+2024-06-11 12:52:16; INFO; AC_FDSPlugIn; 21112; 3032] CallLibrary End
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 4572] CallLibrary Start
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 4572] CallLibrary End
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 9756] CallLibrary Start
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 9756] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 9756] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 9756] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 9756] (MonitorHandler) No linked profile
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 9756] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 9756] Finish DoForegroundEvent()
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 9756] CallLibrary End
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 6360] CallLibrary Start
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 6360] CallLibrary End
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 25980] CallLibrary Start
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 25980] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 25980] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 25980] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 25980] (MonitorHandler) No linked profile
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 25980] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:19; INFO; ScenarioProfilePlugIn; 21112; 25980] Finish DoForegroundEvent()
+2024-06-11 12:52:19; INFO; AC_FDSPlugIn; 21112; 25980] CallLibrary End
+2024-06-11 12:52:23; INFO; AC_FDSPlugIn; 21112; 21016] CallLibrary Start
+2024-06-11 12:52:23; INFO; AC_FDSPlugIn; 21112; 21016] CallLibrary End
+2024-06-11 12:52:23; INFO; AC_FDSPlugIn; 21112; 15380] CallLibrary Start
+2024-06-11 12:52:23; INFO; ScenarioProfilePlugIn; 21112; 15380] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:23; INFO; ScenarioProfilePlugIn; 21112; 15380] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:52:23; INFO; ScenarioProfilePlugIn; 21112; 15380] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:23; INFO; ScenarioProfilePlugIn; 21112; 15380] (MonitorHandler) No linked profile
+2024-06-11 12:52:23; INFO; ScenarioProfilePlugIn; 21112; 15380] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:23; INFO; ScenarioProfilePlugIn; 21112; 15380] Finish DoForegroundEvent()
+2024-06-11 12:52:23; INFO; AC_FDSPlugIn; 21112; 15380] CallLibrary End
+2024-06-11 12:52:32; INFO; Loopback Stream; 21112; 23168] CallLibrary Start
+2024-06-11 12:52:32; INFO; Loopback Stream; 21112; 23168] CallLibrary End
+2024-06-11 12:52:35; INFO; AC_FDSPlugIn; 21112; 25360] CallLibrary Start
+2024-06-11 12:52:35; INFO; AC_FDSPlugIn; 21112; 25360] CallLibrary End
+2024-06-11 12:52:35; INFO; AC_FDSPlugIn; 21112; 10496] CallLibrary Start
+2024-06-11 12:52:35; INFO; ScenarioProfilePlugIn; 21112; 10496] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:35; INFO; ScenarioProfilePlugIn; 21112; 10496] (DoForegroundEvent) PID=26060, Path="C:\Windows\explorer.exe", AppType=WIN32
+2024-06-11 12:52:35; INFO; ScenarioProfilePlugIn; 21112; 10496] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:35; INFO; ScenarioProfilePlugIn; 21112; 10496] (MonitorHandler) No linked profile
+2024-06-11 12:52:35; INFO; ScenarioProfilePlugIn; 21112; 10496] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:35; INFO; ScenarioProfilePlugIn; 21112; 10496] Finish DoForegroundEvent()
+2024-06-11 12:52:35; INFO; AC_FDSPlugIn; 21112; 10496] CallLibrary End
+2024-06-11 12:52:36; INFO; AC_FDSPlugIn; 21112; 14620] CallLibrary Start
+2024-06-11 12:52:36; INFO; AC_FDSPlugIn; 21112; 14620] CallLibrary End
+2024-06-11 12:52:36; INFO; AC_FDSPlugIn; 21112; 7824] CallLibrary Start
+2024-06-11 12:52:36; INFO; ScenarioProfilePlugIn; 21112; 7824] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:36; INFO; ScenarioProfilePlugIn; 21112; 7824] (DoForegroundEvent) PID=18792, Path="C:\Users\geetv\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2024-06-11 12:52:36; INFO; ScenarioProfilePlugIn; 21112; 7824] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:36; INFO; ScenarioProfilePlugIn; 21112; 7824] (MonitorHandler) No linked profile
+2024-06-11 12:52:36; INFO; ScenarioProfilePlugIn; 21112; 7824] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:36; INFO; ScenarioProfilePlugIn; 21112; 7824] Finish DoForegroundEvent()
+2024-06-11 12:52:36; INFO; AC_FDSPlugIn; 21112; 7824] CallLibrary End
+2024-06-11 12:52:42; INFO; AC_FDSPlugIn; 21112; 1516] CallLibrary Start
+2024-06-11 12:52:42; INFO; AC_FDSPlugIn; 21112; 1516] CallLibrary End
+2024-06-11 12:52:42; INFO; AC_FDSPlugIn; 21112; 25572] CallLibrary Start
+2024-06-11 12:52:42; INFO; ScenarioProfilePlugIn; 21112; 25572] ProcessRequest : DoForegroundEvent
+2024-06-11 12:52:42; INFO; ScenarioProfilePlugIn; 21112; 25572] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:52:42; INFO; ScenarioProfilePlugIn; 21112; 25572] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:52:42; INFO; ScenarioProfilePlugIn; 21112; 25572] (MonitorHandler) No linked profile
+2024-06-11 12:52:42; INFO; ScenarioProfilePlugIn; 21112; 25572] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:52:42; INFO; ScenarioProfilePlugIn; 21112; 25572] Finish DoForegroundEvent()
+2024-06-11 12:52:42; INFO; AC_FDSPlugIn; 21112; 25572] CallLibrary End
+2024-06-11 12:53:02; INFO; Loopback Stream; 21112; 18596] CallLibrary Start
+2024-06-11 12:53:02; INFO; Loopback Stream; 21112; 18596] CallLibrary End
+2024-06-11 12:53:32; INFO; Loopback Stream; 21112; 2576] CallLibrary Start
+2024-06-11 12:53:32; INFO; Loopback Stream; 21112; 2576] CallLibrary End
+2024-06-11 12:54:02; INFO; Loopback Stream; 21112; 19356] CallLibrary Start
+2024-06-11 12:54:02; INFO; Loopback Stream; 21112; 19356] CallLibrary End
+2024-06-11 12:54:32; INFO; Loopback Stream; 21112; 6928] CallLibrary Start
+2024-06-11 12:54:32; INFO; Loopback Stream; 21112; 6928] CallLibrary End
+2024-06-11 12:54:36; INFO; Utility Plugin; 21112; 7180] CallLibrary Start
+2024-06-11 12:54:36; INFO; Utility Plugin; 21112; 7180] CallLibrary End
+2024-06-11 12:54:36; INFO; Utility Plugin; 21112; 7180] CallLibrary Start
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter DoGetGraphicStatus()
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter GetGraphicStatus()
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter InitializeFolderHook()
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter InitializeFolderHook() Finish
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Get GPUStatus from BIOS : 0 (0:Hybrid ; 1:UMA)
+
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] GetGraphicStatus() Finish
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() - Graphic_Status = 0
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() - Auto_Status = 0
+2024-06-11 12:54:36; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() Finish
+2024-06-11 12:54:36; INFO; Utility Plugin; 21112; 7180] CallLibrary End
+2024-06-11 12:55:02; INFO; Loopback Stream; 21112; 11352] CallLibrary Start
+2024-06-11 12:55:02; INFO; Loopback Stream; 21112; 11352] CallLibrary End
+2024-06-11 12:55:24; INFO; AC_FDSPlugIn; 21112; 17652] CallLibrary Start
+2024-06-11 12:55:24; INFO; AC_FDSPlugIn; 21112; 17652] CallLibrary End
+2024-06-11 12:55:24; INFO; AC_FDSPlugIn; 21112; 6232] CallLibrary Start
+2024-06-11 12:55:24; INFO; ScenarioProfilePlugIn; 21112; 6232] ProcessRequest : DoForegroundEvent
+2024-06-11 12:55:24; INFO; ScenarioProfilePlugIn; 21112; 6232] (DoForegroundEvent) PID=11592, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2024-06-11 12:55:24; INFO; ScenarioProfilePlugIn; 21112; 6232] (MonitorHandler) CurrentProfile is ""
+2024-06-11 12:55:24; INFO; ScenarioProfilePlugIn; 21112; 6232] (MonitorHandler) No linked profile
+2024-06-11 12:55:24; INFO; ScenarioProfilePlugIn; 21112; 6232] (MonitorHandler) CurrentPID : 0, not existed
+2024-06-11 12:55:24; INFO; ScenarioProfilePlugIn; 21112; 6232] Finish DoForegroundEvent()
+2024-06-11 12:55:24; INFO; AC_FDSPlugIn; 21112; 6232] CallLibrary End
+2024-06-11 12:55:32; INFO; Loopback Stream; 21112; 19756] CallLibrary Start
+2024-06-11 12:55:32; INFO; Loopback Stream; 21112; 19756] CallLibrary End
+2024-06-11 12:56:02; INFO; Loopback Stream; 21112; 16744] CallLibrary Start
+2024-06-11 12:56:02; INFO; Loopback Stream; 21112; 16744] CallLibrary End
+2024-06-11 12:56:32; INFO; Loopback Stream; 21112; 21672] CallLibrary Start
+2024-06-11 12:56:32; INFO; Loopback Stream; 21112; 21672] CallLibrary End
+2024-06-11 12:57:02; INFO; Loopback Stream; 21112; 26596] CallLibrary Start
+2024-06-11 12:57:02; INFO; Loopback Stream; 21112; 26596] CallLibrary End
+2024-06-11 12:57:32; INFO; Loopback Stream; 21112; 18496] CallLibrary Start
+2024-06-11 12:57:32; INFO; Loopback Stream; 21112; 18496] CallLibrary End
+2024-06-11 12:58:02; INFO; Loopback Stream; 21112; 1796] CallLibrary Start
+2024-06-11 12:58:02; INFO; Loopback Stream; 21112; 1796] CallLibrary End
+2024-06-11 12:58:32; INFO; Loopback Stream; 21112; 18304] CallLibrary Start
+2024-06-11 12:58:32; INFO; Loopback Stream; 21112; 18304] CallLibrary End
+2024-06-11 12:59:02; INFO; Loopback Stream; 21112; 15296] CallLibrary Start
+2024-06-11 12:59:02; INFO; Loopback Stream; 21112; 15296] CallLibrary End
+2024-06-11 12:59:32; INFO; Loopback Stream; 21112; 22032] CallLibrary Start
+2024-06-11 12:59:32; INFO; Loopback Stream; 21112; 22032] CallLibrary End
+2024-06-11 13:00:03; INFO; Loopback Stream; 21112; 22436] CallLibrary Start
+2024-06-11 13:00:03; INFO; Loopback Stream; 21112; 22436] CallLibrary End
+2024-06-11 13:00:33; INFO; Loopback Stream; 21112; 20204] CallLibrary Start
+2024-06-11 13:00:33; INFO; Loopback Stream; 21112; 20204] CallLibrary End
+2024-06-11 13:01:03; INFO; Loopback Stream; 21112; 16684] CallLibrary Start
+2024-06-11 13:01:03; INFO; Loopback Stream; 21112; 16684] CallLibrary End
+2024-06-11 13:01:33; INFO; Loopback Stream; 21112; 18148] CallLibrary Start
+2024-06-11 13:01:33; INFO; Loopback Stream; 21112; 18148] CallLibrary End
+2024-06-11 13:02:03; INFO; Loopback Stream; 21112; 4464] CallLibrary Start
+2024-06-11 13:02:03; INFO; Loopback Stream; 21112; 4464] CallLibrary End
+2024-06-11 13:02:33; INFO; Loopback Stream; 21112; 16012] CallLibrary Start
+2024-06-11 13:02:33; INFO; Loopback Stream; 21112; 16012] CallLibrary End
+2024-06-11 13:03:03; INFO; Loopback Stream; 21112; 26012] CallLibrary Start
+2024-06-11 13:03:03; INFO; Loopback Stream; 21112; 26012] CallLibrary End
+2024-06-11 13:03:33; INFO; Loopback Stream; 21112; 10212] CallLibrary Start
+2024-06-11 13:03:33; INFO; Loopback Stream; 21112; 10212] CallLibrary End
+2024-06-11 13:04:03; INFO; Loopback Stream; 21112; 4488] CallLibrary Start
+2024-06-11 13:04:03; INFO; Loopback Stream; 21112; 4488] CallLibrary End
+2024-06-11 13:04:33; INFO; Loopback Stream; 21112; 12812] CallLibrary Start
+2024-06-11 13:04:33; INFO; Loopback Stream; 21112; 12812] CallLibrary End
+2024-06-11 13:05:03; INFO; Loopback Stream; 21112; 11960] CallLibrary Start
+2024-06-11 13:05:03; INFO; Loopback Stream; 21112; 11960] CallLibrary End
+2024-06-11 13:05:33; INFO; Loopback Stream; 21112; 16676] CallLibrary Start
+2024-06-11 13:05:33; INFO; Loopback Stream; 21112; 16676] CallLibrary End
+2024-06-11 13:06:03; INFO; Loopback Stream; 21112; 21060] CallLibrary Start
+2024-06-11 13:06:03; INFO; Loopback Stream; 21112; 21060] CallLibrary End
+2024-06-11 13:06:33; INFO; Loopback Stream; 21112; 17788] CallLibrary Start
+2024-06-11 13:06:33; INFO; Loopback Stream; 21112; 17788] CallLibrary End
+2024-06-11 13:07:03; INFO; Loopback Stream; 21112; 18108] CallLibrary Start
+2024-06-11 13:07:03; INFO; Loopback Stream; 21112; 18108] CallLibrary End
+2024-06-11 13:07:33; INFO; Loopback Stream; 21112; 4936] CallLibrary Start
+2024-06-11 13:07:33; INFO; Loopback Stream; 21112; 4936] CallLibrary End
+2024-06-11 13:08:03; INFO; Loopback Stream; 21112; 10824] CallLibrary Start
+2024-06-11 13:08:03; INFO; Loopback Stream; 21112; 10824] CallLibrary End
+2024-06-11 13:08:33; INFO; Loopback Stream; 21112; 13812] CallLibrary Start
+2024-06-11 13:08:33; INFO; Loopback Stream; 21112; 13812] CallLibrary End
+2024-06-11 13:09:03; INFO; Loopback Stream; 21112; 11080] CallLibrary Start
+2024-06-11 13:09:03; INFO; Loopback Stream; 21112; 11080] CallLibrary End
+2024-06-11 13:09:33; INFO; Loopback Stream; 21112; 19112] CallLibrary Start
+2024-06-11 13:09:33; INFO; Loopback Stream; 21112; 19112] CallLibrary End
+2024-06-11 13:10:03; INFO; Loopback Stream; 21112; 16104] CallLibrary Start
+2024-06-11 13:10:03; INFO; Loopback Stream; 21112; 16104] CallLibrary End
+2024-06-11 13:10:33; INFO; Loopback Stream; 21112; 18596] CallLibrary Start
+2024-06-11 13:10:33; INFO; Loopback Stream; 21112; 18596] CallLibrary End
+2024-06-11 13:11:03; INFO; Loopback Stream; 21112; 312] CallLibrary Start
+2024-06-11 13:11:03; INFO; Loopback Stream; 21112; 312] CallLibrary End
+2024-06-11 13:11:33; INFO; Loopback Stream; 21112; 6568] CallLibrary Start
+2024-06-11 13:11:33; INFO; Loopback Stream; 21112; 6568] CallLibrary End
+2024-06-11 13:12:03; INFO; Loopback Stream; 21112; 20880] CallLibrary Start
+2024-06-11 13:12:03; INFO; Loopback Stream; 21112; 20880] CallLibrary End
+2024-06-11 13:12:33; INFO; Loopback Stream; 21112; 24252] CallLibrary Start
+2024-06-11 13:12:33; INFO; Loopback Stream; 21112; 24252] CallLibrary End
+2024-06-11 13:13:03; INFO; Loopback Stream; 21112; 15052] CallLibrary Start
+2024-06-11 13:13:03; INFO; Loopback Stream; 21112; 15052] CallLibrary End
+2024-06-11 13:13:33; INFO; Loopback Stream; 21112; 24600] CallLibrary Start
+2024-06-11 13:13:33; INFO; Loopback Stream; 21112; 24600] CallLibrary End
+2024-06-11 13:14:03; INFO; Loopback Stream; 21112; 14076] CallLibrary Start
+2024-06-11 13:14:03; INFO; Loopback Stream; 21112; 14076] CallLibrary End
+2024-06-11 13:14:33; INFO; Loopback Stream; 21112; 14276] CallLibrary Start
+2024-06-11 13:14:33; INFO; Loopback Stream; 21112; 14276] CallLibrary End
+2024-06-11 13:15:03; INFO; Loopback Stream; 21112; 9608] CallLibrary Start
+2024-06-11 13:15:03; INFO; Loopback Stream; 21112; 9608] CallLibrary End
+2024-06-11 13:15:33; INFO; Loopback Stream; 21112; 15748] CallLibrary Start
+2024-06-11 13:15:33; INFO; Loopback Stream; 21112; 15748] CallLibrary End
+2024-06-11 13:16:03; INFO; Loopback Stream; 21112; 9468] CallLibrary Start
+2024-06-11 13:16:03; INFO; Loopback Stream; 21112; 9468] CallLibrary End
+2024-06-11 13:16:33; INFO; Loopback Stream; 21112; 19248] CallLibrary Start
+2024-06-11 13:16:33; INFO; Loopback Stream; 21112; 19248] CallLibrary End
+2024-06-11 13:17:03; INFO; Loopback Stream; 21112; 24916] CallLibrary Start
+2024-06-11 13:17:03; INFO; Loopback Stream; 21112; 24916] CallLibrary End
+2024-06-11 13:17:33; INFO; Loopback Stream; 21112; 16640] CallLibrary Start
+2024-06-11 13:17:33; INFO; Loopback Stream; 21112; 16640] CallLibrary End
+2024-06-11 13:18:03; INFO; Loopback Stream; 21112; 18496] CallLibrary Start
+2024-06-11 13:18:03; INFO; Loopback Stream; 21112; 18496] CallLibrary End
+2024-06-11 13:18:33; INFO; Loopback Stream; 21112; 18768] CallLibrary Start
+2024-06-11 13:18:33; INFO; Loopback Stream; 21112; 18768] CallLibrary End
+2024-06-11 13:19:03; INFO; Loopback Stream; 21112; 26184] CallLibrary Start
+2024-06-11 13:19:03; INFO; Loopback Stream; 21112; 26184] CallLibrary End
+2024-06-11 13:19:33; INFO; Loopback Stream; 21112; 6940] CallLibrary Start
+2024-06-11 13:19:33; INFO; Loopback Stream; 21112; 6940] CallLibrary End
+2024-06-11 13:20:03; INFO; Loopback Stream; 21112; 3392] CallLibrary Start
+2024-06-11 13:20:03; INFO; Loopback Stream; 21112; 3392] CallLibrary End
+2024-06-11 13:20:33; INFO; Loopback Stream; 21112; 22768] CallLibrary Start
+2024-06-11 13:20:33; INFO; Loopback Stream; 21112; 22768] CallLibrary End
+2024-06-11 13:21:03; INFO; Loopback Stream; 21112; 25592] CallLibrary Start
+2024-06-11 13:21:03; INFO; Loopback Stream; 21112; 25592] CallLibrary End
+2024-06-11 13:21:33; INFO; Loopback Stream; 21112; 21032] CallLibrary Start
+2024-06-11 13:21:33; INFO; Loopback Stream; 21112; 21032] CallLibrary End
+2024-06-11 13:22:03; INFO; Loopback Stream; 21112; 11072] CallLibrary Start
+2024-06-11 13:22:03; INFO; Loopback Stream; 21112; 11072] CallLibrary End
+2024-06-11 13:22:33; INFO; Loopback Stream; 21112; 20428] CallLibrary Start
+2024-06-11 13:22:33; INFO; Loopback Stream; 21112; 20428] CallLibrary End
+2024-06-11 13:23:03; INFO; Loopback Stream; 21112; 3680] CallLibrary Start
+2024-06-11 13:23:03; INFO; Loopback Stream; 21112; 3680] CallLibrary End
+2024-06-11 13:23:33; INFO; Loopback Stream; 21112; 1980] CallLibrary Start
+2024-06-11 13:23:33; INFO; Loopback Stream; 21112; 1980] CallLibrary End
+2024-06-11 13:24:03; INFO; Loopback Stream; 21112; 17340] CallLibrary Start
+2024-06-11 13:24:03; INFO; Loopback Stream; 21112; 17340] CallLibrary End
+2024-06-11 13:24:33; INFO; Loopback Stream; 21112; 16004] CallLibrary Start
+2024-06-11 13:24:33; INFO; Loopback Stream; 21112; 16004] CallLibrary End
+2024-06-11 13:24:36; INFO; Utility Plugin; 21112; 7180] CallLibrary Start
+2024-06-11 13:24:36; INFO; Utility Plugin; 21112; 7180] CallLibrary End
+2024-06-11 13:24:36; INFO; Utility Plugin; 21112; 7180] CallLibrary Start
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter DoGetGraphicStatus()
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter GetGraphicStatus()
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter InitializeFolderHook()
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Enter InitializeFolderHook() Finish
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] Get GPUStatus from BIOS : 0 (0:Hybrid ; 1:UMA)
+
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] GetGraphicStatus() Finish
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() - Graphic_Status = 0
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() - Auto_Status = 0
+2024-06-11 13:24:36; INFO; GPU Power Saving Plugin ; 21112; 7180] DoGetGraphicStatus() Finish
+2024-06-11 13:24:36; INFO; Utility Plugin; 21112; 7180] CallLibrary End
+2024-06-11 13:25:03; INFO; Loopback Stream; 21112; 10808] CallLibrary Start
+2024-06-11 13:25:03; INFO; Loopback Stream; 21112; 10808] CallLibrary End
+2024-06-11 13:25:31; INFO; User Session Manager; 21112; 17252] OnPowerChange Start
+2024-06-11 13:25:31; INFO; User Session Manager; 21112; 17252] OnPowerChange End
+2024-06-11 13:25:31; INFO; GPU Power Saving Plugin ; 21112; 17148] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display is dimmed
+2024-06-11 13:25:31; CRITICAL; Utility Plugin; 21112; 19432] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display is dimmed
+2024-06-11 13:25:33; INFO; Loopback Stream; 21112; 10444] CallLibrary Start
+2024-06-11 13:25:33; INFO; Loopback Stream; 21112; 10444] CallLibrary End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; ScenarioProfilePlugIn; 21112; 9080] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 48, ModeKey : 48, Type : System_Function
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; ScenarioProfilePlugIn; 21112; 9080] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; ERROR; DenoiseAI Pluing; 21112; 12768] OnDeviceChange Deinit
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; ScenarioProfilePlugIn; 21112; 9080] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 48, ModeKey : 48, Type : System_Function
+2024-06-11 13:25:44; INFO; ScenarioProfilePlugIn; 21112; 9080] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 13:25:44; INFO; ScenarioProfilePlugIn; 21112; 9080] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 48, ModeKey : 48, Type : System_Function
+2024-06-11 13:25:44; INFO; ScenarioProfilePlugIn; 21112; 9080] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange Start
+2024-06-11 13:25:44; INFO; User Session Manager; 21112; 17252] OnDeviceChange End
+2024-06-11 13:25:47; INFO; Aura Pluing; 21112; 10312] ATK registry Update !!!
+2024-06-11 13:25:47; INFO; User Session Manager; 21112; 17252] OnPowerChange Start
+2024-06-11 13:25:47; INFO; GPU Power Saving Plugin ; 21112; 17148] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display Off
+2024-06-11 13:25:47; INFO; GPU Power Saving Plugin ; 21112; 17148] close display, delete gpu list cache
+2024-06-11 13:25:47; INFO; GPU Power Saving Plugin ; 21112; 17148] Enter DeleteGPUCache()
+2024-06-11 13:25:47; INFO; User Session Manager; 21112; 17252] OnPowerChange End
+2024-06-11 13:25:47; INFO; User Experience Improvement Plugin; 21112; 11756] Display Off
+2024-06-11 13:25:47; CRITICAL; Utility Plugin; 21112; 19432] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display Off
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] close display, notify bios bitlocker status
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] Enter NotifyBitLockerStatus()
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before System Folder
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2024-06-11 13:25:47; INFO; GPU Power Saving Plugin ; 21112; 17148] DeleteGPUCache() Finish
+2024-06-11 13:25:47; INFO; GPU Power Saving Plugin ; 21112; 17148] Enter CloseGPUToast()
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Try Get ConversaionStatus
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Finish Get ConversaionStatus
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before release COM
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After release COM
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After IsBitLockerEnabled() = 1
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] CheckPCR7Stats() Enter
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] m_uiPCR7BindingStatus = 3
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] CheckPCR7Stats() Finish, successful
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] dwBitLockerEnable = 1 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 3
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] Fail because bios does not support WMI ID 0x00060096
+
+2024-06-11 13:25:47; INFO; Utility Plugin; 21112; 19432] NotifyBitLockerStatus() Finish
+2024-06-11 13:25:47; INFO; GPU Power Saving Plugin ; 21112; 17148] CloseGPUToast() Finish
